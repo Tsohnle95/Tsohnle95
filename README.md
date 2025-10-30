@@ -1,4 +1,4 @@
-<img src="https://github-readme-particle-bannerv2.vercel.app/api?seed=Tsohnle95&height=200&type=HALO&backgroundColor=0d1117&v=1" alt="Particle Banner">
+<img src="https://k-r-o-n-o-s.vercel.app/api/v2/waves?text=Welcome%20to%20my%20Profile!&color=777BB4&height=250&width=1200" alt="Animated Banner">
 
 
 ##  🧙‍♂️ Hi, I'm Ty! 
