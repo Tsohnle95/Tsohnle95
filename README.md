@@ -54,11 +54,11 @@ I Studied Web Development at the Northern Alberta Institute of Technology in Alb
 
 
 
-### 🏆 My GitHub Trophies
+<!--### 🏆 My GitHub Trophies
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Tsohnle95&theme=dracula&column=7" alt="GitHub Trophies">
   </a>
-</p>
+</p>-->
 
