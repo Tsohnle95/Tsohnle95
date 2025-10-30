@@ -1,4 +1,4 @@
-<img src="https://k-r-o-n-o-s.vercel.app/api/v2/waves?text=Welcome%20to%20my%20Profile!&color=777BB4&height=250&width=1200" alt="Animated Banner">
+<img src="github-header-banner.png" alt="My Github banner">
 
 
 ##  🧙‍♂️ Hi, I'm Ty! 
