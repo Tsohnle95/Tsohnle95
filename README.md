@@ -35,6 +35,12 @@ I Studied Web Development at the Northern Alberta Institute of Technology in Alb
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsohnle95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+  </a>
+</p>
+
 ### 📊 My GitHub Stats
 
 <p>
@@ -43,11 +49,7 @@ I Studied Web Development at the Northern Alberta Institute of Technology in Alb
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsohnle95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-  </a>
-</p>
+
 
 ### 🏆 My GitHub Trophies
 
