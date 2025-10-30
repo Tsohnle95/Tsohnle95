@@ -1,4 +1,4 @@
-<img src="github-header-banner.png" alt="My Github banner">
+<img src="banner-bg.png" alt="My Github banner">
 
 
 ##  🧙‍♂️ Hi, I'm Ty! 
