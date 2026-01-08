@@ -11,9 +11,10 @@
 
 
 
-I'm a Web Developer with strong enthiusiasm for creating beautiful and intuitive user interfaces. <br>
- <!--I was drawn to web development because I love the process of bringing ideas to life, from a design concept to a fully functional website/webapp.-->
+I'm a Web Developer with strong enthiusiasm for creating beautiful and intuitive Web Applications. <br>
 I Studied Web Development at the Northern Alberta Institute of Technology in Alberta, Canada.<br>
+<!--I was drawn to web development because I love the process of bringing ideas to life, from a design concept to a fully functional website/web app.-->
+
 
 ### 🛠️ My Tech Stack & Tools
 
@@ -49,12 +50,4 @@ I Studied Web Development at the Northern Alberta Institute of Technology in Alb
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tsohnle95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </a>
 </p>
-
-<!--### 🏆 My GitHub Trophies
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tsohnle95&theme=dracula&column=7" alt="GitHub Trophies">
-  </a>
-</p>-->
 
