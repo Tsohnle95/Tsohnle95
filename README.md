@@ -2,6 +2,9 @@
 
 
 ##  🧙‍♂️ Hi, I'm Ty! 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;)
+
+
 
 
 
@@ -38,21 +41,13 @@ I Studied Web Development at the Northern Alberta Institute of Technology in Alb
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsohnle95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-  </a>
-</p>
-
 ### 📊 My GitHub Stats
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tsohnle95&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats">
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tsohnle95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+</a>
 </p>
-
-
 
 <!--### 🏆 My GitHub Trophies
 
