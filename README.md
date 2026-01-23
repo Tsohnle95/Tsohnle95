@@ -1,10 +1,10 @@
 <!-- <img src="banner-bg.png" alt="My Github banner"> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Aspiring+Full+stack+Developer;)
 
 
 ##  Hi, I'm Ty! 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Aspiring+Full+stack+Developer;)
 
 
 
