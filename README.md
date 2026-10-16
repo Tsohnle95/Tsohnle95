@@ -1,16 +1,18 @@
-## Hi there 👋
+<p><img src="assets/profile.svg" alt="# Professional introduction
 
-<!--
-**Tsohnle95/Tsohnle95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer &amp; designer · Edmonton, Alberta
 
-Here are some ideas to get you started:
+I build websites, web applications, and custom software in Edmonton, Alberta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Website design &amp; development** — New sites, redesigns, responsive layouts and CMS development.
+
+**Applications &amp; features** — Custom tools, databases and integrations with external services.
+
+**UI/UX design** — Content organization, wireframes, prototypes and accessible interfaces.
+
+**Optimization &amp; support** — Performance, technical SEO, bug fixes and ongoing maintenance.
+
+HTML · CSS / Sass · JavaScript · React · Node.js / Express · PHP · MySQL
+
+WordPress · Figma · Photoshop · Illustrator · Git / GitHub · Docker
+"></p>
